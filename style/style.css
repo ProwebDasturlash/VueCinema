@@ -55,6 +55,10 @@ body {
     padding: 20px 0;
     column-gap: 24px;
 }
+.reklama.second{
+    background: linear-gradient(90.09deg, #755cab 0%, #0474bf 97.52%, #c866b0 100%, #ffffff 100%);
+    
+}
 
 .reklama__txt {
     font-size: 16px;
